@@ -1,0 +1,32 @@
+{
+  "name": "letswatchmovie",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-input/mask": "^1.0.20",
+    "axios": "^1.6.5",
+    "formik": "^2.4.5",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-bootstrap": "^2.9.2",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "swal": "^0.1.0",
+    "sweetalert2": "^11.10.3",
+    "swiper": "^11.0.5",
+    "yup": "^1.3.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "autoprefixer": "^10.0.1",
+    "daisyui": "^4.6.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
